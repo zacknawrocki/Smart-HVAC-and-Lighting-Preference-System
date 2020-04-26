@@ -1,0 +1,11 @@
+[Unit]
+Description=HVAC Preferences GUI
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python /home/pi/Desktop/LESA-HVAC/gui/main.py > /home/pi/Desktop/LESA-HVAC/output.log 2>&1
+User=pi
+
+[Install]
+WantedBy=multi-user.target
