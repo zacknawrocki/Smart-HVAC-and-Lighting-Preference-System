@@ -8,12 +8,10 @@ This repository contains code for the coordinating server, the preference client
 
 Currently, the coordinating server is an AWS EC2 instance and the preference clients are Raspberry Pi model 3s with touch screen displays. The Website, used to scedule meetings in the SCR, is hosted using XAMPP.
 
-* **coordinator**: directory containing preference coordinator server code and other coordinator files
-* **preference-client**: directory containing preference client code and other preference client files
-* **SCR Schedule Website**: directory containing the calendar website code, to schedule meetings in the SCR
-* **Miscellaneous SCR Projects and Documentation**: directory containing documentation, utilities, and code for other work in the SCR 
-
-Developed by Zack Nawrocki and Sam Atkinson<br/>
+* **coordinator**: directory containing preference coordinator server code and other coordinator files, by Zack Nawrocki and Sam Atkinson
+* **preference-client**: directory containing preference client code and other preference client files, by Zack Nawrocki and Sam Atkinson
+* **SCR Schedule Website**: directory containing the calendar website code, to schedule meetings in the SCR, by Steven Cano and Zack Nawrocki
+* **Miscellaneous SCR Projects and Documentation**: directory containing documentation, utilities, and code for other work in the SCR, by Zack Nawrocki and TK Woodstock
 
 **Purpose of this Repository** <br>
 The purpose of this repository is to archive some of my previous work, upon leaving the research project (graduating), so it can be easily reverted back to, if any problems emerge. Due to the current COVID-19 pandemic (April 2020), much of the changes made may not be tested until (hopefully) this fall. This work has been handed over to Team Setwipatanachai, who will be continuing with my research work. Feel free to use this repository to troubleshoot any problems that may occur. Also, I imagine that this original code will be much different in the future, with more features, as well as our new algorithms, so if you are a new student in the future, and come accross this repository on GitHub (or hosted on-campus), shoot me an email. I'd love to hear about the changes and improvements made to the project! 
