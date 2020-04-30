@@ -20,7 +20,7 @@ This version (May 2020) includes the stable implementation, before the campus wa
 
 Any future students should be able to clone this repository, if necessary, or use it as a reference to contribute to new work. If there are any questions, issues, requests to access private code, or would just like give me an update, I can always be reached at zacknawrocki@gmail.com
 
-I look forward hearing about all the exciting work that is to come.
+I look forward to hearing about all the exciting work that is to come.
 
 Best, <br>
 Zack Nawrocki
