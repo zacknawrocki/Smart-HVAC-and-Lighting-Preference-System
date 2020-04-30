@@ -1,5 +1,5 @@
 # Miscellaneous-SCR-Projects
-This repository contains utilities, scripts, and other programs used for the LESA Smart Conference Room, located in CII 7003 at Rensselaer Polytechnic Institute, that run
+This repository contains utilities, scripts, and other programs used for the LESA Smart Conference Room, located in CII 7003 at Rensselaer Polytechnic Institute, which run
 independently of the main repositories, such as [HVAC & Lighting Preference System](https://github.com/zacknawrocki/HVAC-and-Lighting-Preference-System),
 [SCR Schedule Website](https://github.com/zacknawrocki/HVACWebsite), HVAC Server, TOF, and scr.ros_bridge. While the directories of this repository's projects are run independently in different locations of the main repositories, these main repositories are still reliant on the work relevant to Miscellaneous-SCR-Projects. Unrelated SCR projects rely on the projects in here, as well, which is why they are treated as a separate collection of projects.
 
