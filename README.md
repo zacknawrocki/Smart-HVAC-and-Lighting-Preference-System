@@ -18,7 +18,7 @@ The purpose of this repository is to archive some of my previous work, upon leav
 
 This version (May 2020) includes the stable implementation, before the campus was closed from COVID-19. This repository does not include the current work, including minor improvements, such as some better practices for holding data (much of which had to be done quickly, in advance for the 2020 conference and demo), a reliable fix to recover future meetings and room temperature preparations on a reboot, loss of power, or similar issues, and finishing live SCR status data sceens for the preference clients. It also does not include some of the current, major work (as of April 2020), such as switching over to MQTT from ROS and our pre-heating/pre-cooling meeting temperature algorithm, using a data-driven learning and MPC approach to a smart HVAC personlization algorithm, for indoor spaces. Please note that some external links in this repository may break, if future students, or the research center, ever decide to make specific work private or relocate it.
 
-Any future students should be able to clone this repository, if necessary, or use it as a reference to contribute to new work. If there are any questions, issues, requests to access private code, or would just like give me an update, I can always be reached as zacknawrocki@gmail.com
+Any future students should be able to clone this repository, if necessary, or use it as a reference to contribute to new work. If there are any questions, issues, requests to access private code, or would just like give me an update, I can always be reached at zacknawrocki@gmail.com
 
 I look forward hearing about all the exciting work, after graduating.
 
