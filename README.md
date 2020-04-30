@@ -14,10 +14,8 @@ Currently, the coordinating server is an AWS EC2 instance and the preference cli
 * **Miscellaneous SCR Projects and Documentation**: directory containing documentation, utilities, and code for other work in the SCR 
 
 Developed by Zack Nawrocki and Sam Atkinson<br/>
-Preference coordinator server and preference client directories both contain READMEs for documentation.
 
-
-**Purpose**
+**Purpose of this Repository** <br>
 The purpose of this repository is to archive some of my previous work, upon leaving the research project (graduating), so it can be easily reverted back to, if any problems emerge. Due to the current COVID-19 pandemic (April 2020), much of the changes made may not be tested until (hopefully) this fall. This work has been handed over to Team Setwipatanachai, who will be continuing with my research work. Feel free to use this repository to troubleshoot any problems that may occur. Also, I imagine that this original code will be much different in the future, with more features, as well as our new algorithms, so if you are a new student in the future, and come accross this repository (or a similar one on-campus), shoot me an email. I'd love to see the changes and improvements made with the project! 
 
 This version (May 2020) includes the stable implementation, before the campus was closed from COVID-19. This repository does not include the current work, including minor improvements, such as some better practices for holding data (much of which had to be done quickly, in advance for the 2020 conference and demo), a reliable fix to recover future meetings and room temperature preparations, on a reboot, loss of power, or similar issues, and finishing live SCR status data sceens for the preference clients. It also does not include some of the current, major work (as of April 2020), such as switching over to MQTT from ROS and our pre-heating/pre-cooling meeting temperature algorithm, using a data-driven learning and MPC approach to a smart HVAC personlization algorithm, for indoor spaces.
@@ -26,5 +24,5 @@ Any future students should be able to clone this repository, if necessary, or us
 
 I look forward hearing about all the exciting work, upon graduation.
 
-Best,
+Best, <br>
 Zack Nawrocki
