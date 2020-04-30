@@ -1,5 +1,7 @@
 # SCR Schedule Website
 
+**Link to repository**
+https://github.com/zacknawrocki/HVACWebsite (forked from the repository of @scano16434)
 
 **Overview** <br>
 This website serves as an online calendar web application (similar to Google or Apple Calendar), that allows users to schedule meetings in the Smart Conference Room (SCR) at Rensselaer Polytechnic Institute. Once scheduled or removed, the information is sent to the [Preference Coordinator Server](https://github.com/zacknawrocki/HVAC-and-Lighting-Preference-System/tree/master/coordinator), in order to set the meeting's temperature to the preferences of attendees, using a smart temperature, pre-heating/pre-cooling, data-driven learning, indoor thermal management control algorithm.
