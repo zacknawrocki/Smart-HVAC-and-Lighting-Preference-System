@@ -1,6 +1,6 @@
 # SCR Schedule Website
 
-**Link to repository**
+**Link to Repository** <br>
 https://github.com/zacknawrocki/HVACWebsite (forked from the repository of @scano16434)
 
 **Overview** <br>
